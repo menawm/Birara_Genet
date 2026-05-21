@@ -1,4 +1,4 @@
-# Birara Genet — Website
+# Building a Website for Birara Genet
 
 Official website for Birara Genet Charitable Organization, a vocational training 
 organization based in Bole Sub-City, Addis Ababa, Ethiopia.
